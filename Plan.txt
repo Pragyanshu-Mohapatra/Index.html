@@ -1,0 +1,5 @@
+Planning
+--------
+1.login authentication
+2.Basic degin
+3.Option
